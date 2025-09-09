@@ -30,13 +30,16 @@ Excel / PowerQuery (for merging, cleaning, filtering, and pivot analysis)
 
 ## **❓ Key Questions & Insights**
 
-How many artists have appeared on Spotify Charts and won at least one Grammy?
+**How many artists have appeared on Spotify Charts and won at least one Grammy?**
+
 → 28 artists
 
-Have the artists of the top 10 most streamed songs on Spotify won a Grammy for those songs?
+**Have the artists of the top 10 most streamed songs on Spotify won a Grammy for those songs?**
+
 → No. None of the top 10 most streamed songs are Grammy-winning tracks.
 
-Which Grammy Award category has the most overlap with Spotify charting artists?
+**Which Grammy Award category has the most overlap with Spotify charting artists?**
+
 → Song of the Year
 
 ## **📊 Final Dataset**
