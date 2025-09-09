@@ -12,7 +12,7 @@ The main objective was to clean, transform, and merge these datasets to discover
 
 ## **⚙️ Tools & Technologies**
 
-Python (for data extraction, JSON → CSV conversion, and subsetting large datasets)
+Python (for data extraction, JSON → CSV conversion)
 
 Excel / PowerQuery (for merging, cleaning, filtering, and pivot analysis)
 
